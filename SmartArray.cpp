@@ -94,3 +94,4 @@ void SmartArray::showArray()
 		cout<<arr[i]<<endl;
 	}
 }
+
