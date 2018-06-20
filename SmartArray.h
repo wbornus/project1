@@ -25,3 +25,8 @@ class SmartArray{
 		void showValue();
 		void showArray();
 };
+
+void function()
+{
+	cout<<"function is working"<<endl;
+}
